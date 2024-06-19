@@ -8,7 +8,7 @@ The objective of this project is to establish communication between the master a
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:-
 
 
 2. Set up the Arduino Mega and ESP32 devices with the necessary firmware provided in the `arduino` and `esp32` directories, respectively.
